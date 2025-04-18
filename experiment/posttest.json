@@ -2,35 +2,45 @@
   "version": 2.0,
   "questions": [
     {
-      "question": "This is a Sample Question 1?",
+      "question": "Bursting of a host cell after the infection with bacteriophage is called",
       "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
-      },
-      "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
+        "a": "Lysis",
+        "b": "Denaturation",
+        "c": "Transduction",
+        "d": "Induction"
       },
       "correctAnswer": "a",
       "difficulty": "beginner"
     },
     {
-      "question": "This is a Sample Question 2?",
+      "question": "Phage DNA which is integrated into a host cell chromosome is called",
       "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+        "a": "Recombinant DNA",
+        "b": "Lambda phage",
+        "c": "Prophage",
+        "d": "All the above"
       },
-      "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
+      "correctAnswer": "c",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "Who gave the name Bacteriophage?",
+      "answers": {
+        "a": "Frederick W.Twort",
+        "b": "Félix d’Hérelle",
+        "c": "Antonie van Leeuwenhoek",
+        "d": "Louis pasteur"
+      },
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "A virulent phage is a",
+      "answers": {
+        "a": "Phage which possess both lytic and lysogenic cycle",
+        "b": "Phage which possess only lysogenic cycle",
+        "c": "Phage which possess only lytic cycle",
+        "d": "None of these"
       },
       "correctAnswer": "c",
       "difficulty": "beginner"
